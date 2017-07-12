@@ -19,7 +19,7 @@ import java.net.MalformedURLException;
  * @description:一句话描述下类的功能
  * @time 2017-07-06 8:52
  **/
-public class Capture {
+public class CaptureUtils {
 
 
     public static void searchSinger(String name) {

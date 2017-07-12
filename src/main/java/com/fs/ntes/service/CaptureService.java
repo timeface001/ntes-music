@@ -6,4 +6,6 @@ package com.fs.ntes.service;
  * @time 2017-07-12 18:58
  **/
 public interface CaptureService {
+
+    boolean captureArtist(String artistName);
 }

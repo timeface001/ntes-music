@@ -10,4 +10,10 @@ import org.springframework.stereotype.Service;
  **/
 @Service
 public class CaptureServiceImpl implements CaptureService {
+
+    @Override
+    public boolean captureArtist(String artistName) {
+
+        return false;
+    }
 }
