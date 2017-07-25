@@ -1,7 +1,13 @@
 package com.fs.ntes.service.impl;
 
+import com.fs.dreams.Artist;
+import com.fs.dreams.CaptureUtils;
+import com.fs.dreams.mapper.ArtistMapper;
 import com.fs.ntes.service.CaptureService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import java.util.List;
 
 /**
  * @author fengsong
@@ -10,10 +16,14 @@ import org.springframework.stereotype.Service;
  **/
 @Service
 public class CaptureServiceImpl implements CaptureService {
+    @Autowired
+    private ArtistMapper artistMapper;
 
     @Override
     public boolean captureArtist(String artistName) {
 
+        List<Artist> artists= CaptureUtils.searchArtist(artistName,1,1);
+        artistMapper.insert(artists.get(0));
         return false;
     }
 }
