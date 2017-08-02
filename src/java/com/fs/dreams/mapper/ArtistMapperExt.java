@@ -1,8 +1,9 @@
-package com.fs.dreams.mapper;/**
- * Created by fengsong on 2017/8/1.
- */
+package com.fs.dreams.mapper;
 
+import com.fs.dreams.Artist;
 import org.apache.ibatis.annotations.Mapper;
+
+import java.util.List;
 
 /**
  * @author fengsong
@@ -11,5 +12,7 @@ import org.apache.ibatis.annotations.Mapper;
  **/
 @Mapper
 public interface ArtistMapperExt extends ArtistMapper{
+
+    int batchInsert(List<Artist> artists);
 
 }
