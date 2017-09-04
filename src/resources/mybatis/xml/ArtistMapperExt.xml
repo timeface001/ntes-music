@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fs.dreams.mapper.ArtistMapperExt">
+
+
+    <insert id="batchInsert" parameterType="com.fs.dreams.Artist">
+        replace into artist(src_id,name,alias,music_size,album_size,avatar,create_time) VALUES
+        <foreach collection="list" item="item" index="index"
+                 open="(" close=")" separator=",">
+            #{item.srcId},#{item.name},#{item.alias},#{item.musicSize},#{item.albumSize},#{item.avatar},#{item.createTime}
+        </foreach>
+    </insert>
+
+</mapper>
