@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>Optional.of (java.util)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("of").withParameters("java.lang.Object").definedInClass("java.util.Optional"))]]></place>
+    </injection>
+  </component>
+</application>
