@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="common_canvas" type="HTML" />
+      <mapping pattern="common_header" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
