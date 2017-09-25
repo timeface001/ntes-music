@@ -4,5 +4,9 @@
       <display-name>Optional.of (java.util)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("of").withParameters("java.lang.Object").definedInClass("java.util.Optional"))]]></place>
     </injection>
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>dependency</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("dependency")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
+    </injection>
   </component>
 </application>
