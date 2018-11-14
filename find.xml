@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Class Hierarchy" />
-    <option name="defaultScopeName" value="Class Hierarchy" />
+    <option name="customScope" value="Project 'tticar-api'" />
+    <option name="defaultScopeName" value="Project 'tticar-api'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Class Hierarchy" />
+    <option name="SEARCH_SCOPE" value="Project 'tticar-api'" />
   </component>
 </application>
