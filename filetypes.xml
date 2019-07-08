@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="jQueryColor" type="DTD" />
       <mapping pattern="pictures" type="HTML" />
       <mapping pattern="common_canvas" type="HTML" />
       <mapping pattern="common_header" type="PLAIN_TEXT" />
