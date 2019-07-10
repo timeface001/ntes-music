@@ -222,6 +222,10 @@
           <option name="url" value="https://gitee.com/longwang225/longblogv20front_page.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ffmpeg.org/ffmpeg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
