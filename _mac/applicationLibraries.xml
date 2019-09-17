@@ -1,12 +1,9 @@
 <application>
   <component name="libraryTable">
     <library name="lib">
-      <CLASSES>
-        <root url="file://$USER_HOME$/IdeaProjects/cba/mws-service/src/resources/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
-      <jarDirectory url="file://$USER_HOME$/IdeaProjects/cba/mws-service/src/resources/lib" recursive="false" />
     </library>
     <library name="Python 3.7.0 (/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7) interpreter library">
       <CLASSES />
