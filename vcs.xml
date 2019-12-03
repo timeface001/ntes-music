@@ -266,6 +266,10 @@
           <option name="url" value="https://git.dev.tencent.com/pineFCoding/egg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.dev.tencent.com/pineFCoding/robot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
