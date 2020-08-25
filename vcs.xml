@@ -338,6 +338,10 @@
           <option name="url" value="https://github.com/zpf2012/SpringMybatisSpringMVC.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/v5java/demo-springmvc-shiro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
