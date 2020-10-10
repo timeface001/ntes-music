@@ -10,23 +10,18 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
@@ -34,6 +29,19 @@
       <mask>.html</mask>
       <mask>sa.html</mask>
       <mask>save.html</mask>
+      <mask>save.htm</mask>
+      <mask>save.ht</mask>
+      <mask>save.h</mask>
+      <mask>save.</mask>
+      <mask>save</mask>
+      <mask>sav</mask>
+      <mask>sa</mask>
+      <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
