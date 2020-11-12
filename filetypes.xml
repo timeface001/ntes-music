@@ -2,13 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="jQueryColor" type="DTD" />
-      <mapping pattern="pictures" type="HTML" />
       <mapping pattern="common_canvas" type="HTML" />
-      <mapping pattern="common_header" type="PLAIN_TEXT" />
+      <mapping pattern="pictures" type="HTML" />
+      <mapping ext="vue" type="HTML" />
       <mapping pattern="common_import" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="common_header" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="code" type="Properties" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
