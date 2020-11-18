@@ -1,5 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.classpath;*.gitignore;*.hprof;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sh;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="jQueryColor" type="DTD" />
       <mapping pattern="common_canvas" type="HTML" />
@@ -10,7 +11,7 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="code" type="Properties" />
-      <removed_mapping ext="vue" approved="true" type="Vue.js" />
+      <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
