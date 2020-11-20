@@ -31,14 +31,14 @@
       <mask>sa</mask>
       <mask>s</mask>
       <mask>*</mask>
+      <mask>*.jav</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
