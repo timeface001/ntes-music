@@ -8,9 +8,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.h</mask>
@@ -29,16 +28,18 @@
       <mask>sa</mask>
       <mask>s</mask>
       <mask>*</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.x'm</mask>
       <mask>*.x'm'l</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.j's</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
