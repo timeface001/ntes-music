@@ -9,10 +9,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>.html</mask>
@@ -39,6 +35,10 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>p.xml</mask>
+      <mask>po.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
