@@ -21,10 +21,6 @@
       <mask>*.x'm</mask>
       <mask>*.x'm'l</mask>
       <mask>*.j's</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -39,6 +35,10 @@
       <mask>*。java</mask>
       <mask>*java</mask>
       <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
