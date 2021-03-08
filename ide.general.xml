@@ -8,5 +8,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="false" />
     <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
