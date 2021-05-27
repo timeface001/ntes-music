@@ -8,21 +8,12 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Mapper.java" />
     <recentFileMasks>
-      <mask>save.</mask>
-      <mask>save</mask>
-      <mask>sav</mask>
-      <mask>sa</mask>
-      <mask>s</mask>
-      <mask>*.jav</mask>
-      <mask>*.x'm</mask>
-      <mask>*.x'm'l</mask>
-      <mask>*.j's</mask>
       <mask>.xml</mask>
       <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
       <mask>*。</mask>
       <mask>*。j</mask>
       <mask>*。j'a</mask>
@@ -32,13 +23,23 @@
       <mask>*.ja</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*M</mask>
+      <mask>*Ma</mask>
+      <mask>*Map</mask>
+      <mask>*Mapp</mask>
+      <mask>*Mapper</mask>
+      <mask>*Mapper.</mask>
+      <mask>*Mapper.j</mask>
+      <mask>*Mapper.ja</mask>
+      <mask>*Mapper.java</mask>
     </recentFileMasks>
   </component>
 </application>
