@@ -386,6 +386,10 @@
           <option name="url" value="http://svn.xww.cn:81/svn/csj-xlcp/trunk/Development/max-cms" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://svn.unicute.com.cn:8443/svn/tlxy-security/trunk/dev/tlxy-security-admin" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
