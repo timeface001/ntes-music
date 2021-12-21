@@ -3,13 +3,14 @@
     <ignoreFiles list="*.classpath;*.gitignore;*.hprof;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sh;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="jQueryColor" type="DTD" />
-      <mapping pattern="common_canvas" type="HTML" />
       <mapping pattern="pictures" type="HTML" />
+      <mapping pattern="common_canvas" type="HTML" />
       <mapping ext="vue" type="HTML" />
-      <mapping pattern="common_import" type="PLAIN_TEXT" />
       <mapping pattern="common_header" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="common_import" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="code" type="Properties" />
       <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
