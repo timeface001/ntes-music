@@ -398,6 +398,10 @@
           <option name="url" value="https://gitee.com/y_project/RuoYi-Vue" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://svn.unicute.com.cn:8443/svn/ljys-doctor/trunk/dev/ljys-admin-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
