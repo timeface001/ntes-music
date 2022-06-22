@@ -7,6 +7,7 @@
       <mapping pattern="common_canvas" type="HTML" />
       <mapping ext="vue" type="HTML" />
       <mapping pattern="common_header" type="PLAIN_TEXT" />
+      <mapping pattern="StuStatusEnum" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="common_import" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
