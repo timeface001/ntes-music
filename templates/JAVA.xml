@@ -1,0 +1,5 @@
+<templateSet group="JAVA">
+  <template name="fsnb" value="if (StringUtils.isNotBlank($cursor$)) {&#10;&#10;}&#10;" description="字符串不为空" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
