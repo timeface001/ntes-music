@@ -25,22 +25,22 @@
       <mask>*Mapper.j</mask>
       <mask>*Mapper.ja</mask>
       <mask>*Mapper.java</mask>
-      <mask>*.x'm</mask>
-      <mask>*.x'm'l</mask>
       <mask>*.hm</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.ja</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.j'a</mask>
       <mask>*.java</mask>
       <mask>*.h</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.x</mask>
+      <mask>*.x'm</mask>
+      <mask>*.x'm'l</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
