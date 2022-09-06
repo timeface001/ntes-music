@@ -10,7 +10,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.c</mask>
