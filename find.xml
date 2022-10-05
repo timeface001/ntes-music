@@ -7,20 +7,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*</mask>
-      <mask>*M</mask>
-      <mask>*Ma</mask>
-      <mask>*Map</mask>
-      <mask>*Mapp</mask>
-      <mask>*Mapper</mask>
-      <mask>*Mapper.</mask>
-      <mask>*Mapper.j</mask>
-      <mask>*Mapper.ja</mask>
-      <mask>*Mapper.java</mask>
-      <mask>*.hm</mask>
-      <mask>*.jav</mask>
       <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.j'a</mask>
@@ -37,6 +23,20 @@
       <mask>*.xml</mask>
       <mask>``</mask>
       <mask>`</mask>
+      <mask>。x'm</mask>
+      <mask>。x'm'l</mask>
+      <mask>。xml</mask>
+      <mask>。xm</mask>
+      <mask>。x</mask>
+      <mask>。</mask>
+      <mask>。h'm</mask>
+      <mask>。h</mask>
+      <mask>。h't</mask>
+      <mask>。ht</mask>
+      <mask>。htm</mask>
+      <mask>。html</mask>
+      <mask>html</mask>
+      <mask>.html</mask>
     </recentFileMasks>
   </component>
 </application>
