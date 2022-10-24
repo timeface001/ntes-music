@@ -426,6 +426,14 @@
           <option name="url" value="https://e.coding.net/pineFCoding/mws-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://139.196.54.29/svn/模式识别内部系统/AI能力平台/ai-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://139.196.54.29" />
+          <option name="userName" value="fengsong" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
