@@ -8,12 +8,12 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.x'm</mask>
       <mask>*.x'm'l</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>``</mask>
       <mask>`</mask>
       <mask>。x'm</mask>
@@ -35,10 +35,11 @@
       <mask>.xml</mask>
       <mask>*.j'a</mask>
       <mask>*.j'a'v'a</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
