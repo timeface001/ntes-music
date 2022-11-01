@@ -27,18 +27,18 @@
       <mask>.x'm</mask>
       <mask>.x'm'l</mask>
       <mask>.xml</mask>
-      <mask>*.j</mask>
       <mask>*.j'a</mask>
       <mask>*.j'a'v'a</mask>
       <mask>*.y</mask>
       <mask>*.y'm</mask>
       <mask>*.y'm'l</mask>
       <mask>*.yml</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
